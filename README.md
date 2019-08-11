@@ -1,2 +1,2 @@
-# KurdishELex
+# KurdishLex
 Kurdish lexicographical resources
